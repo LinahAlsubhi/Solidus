@@ -28,7 +28,7 @@ Show how objects interact in a specific time sequence for key processes.
 
 ### 4. Activity Diagrams
 Detail the workflow of building inspections and data validation.
-* **Workflow A:** ![Activity Diagram 1](./Diagrams/Soldus-Activity-Diagram(1).png)
+* **Workflow A:** ![Activity Diagram 1](./Diagrams/Solidus-Activity-Diagram(1).png)
 * **Workflow B:** ![Activity Diagram 2](./Diagrams/Solidus-Activity-Diagram(2).png)
 
 ### 5. State Diagrams
