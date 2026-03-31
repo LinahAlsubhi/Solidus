@@ -15,7 +15,7 @@ To ensure a robust architectural design, the following UML diagrams were develop
 
 ### 1. Use Case Diagram
 Describes the functional requirements and user interactions (Admin vs. Inspector).
-![Use Case Diagram](./Solidus-Use-Case-Diagram.png)
+![Use Case Diagram](./Diagrams/Solidus-Use-Case-Diagram.png)
 
 ### 2. Class Diagram
 Illustrates the system's static structure and entity relationships.
