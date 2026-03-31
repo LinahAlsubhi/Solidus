@@ -19,18 +19,24 @@ Describes the functional requirements and user interactions (Admin vs. Inspector
 
 ### 2. Class Diagram
 Illustrates the system's static structure and entity relationships.
-![Class Diagram](./Solidus%20UML%20Class%20Diagram.png)
+![Class Diagram](./Diagrams/Solidus-UML-Class-Diagram.png)
 
 ### 3. Sequence Diagrams
 Show how objects interact in a specific time sequence for key processes.
-* **Process 1:** ![Sequence Diagram 1](./Solidus%20%20Sequence%20Diagram%20(1).png)
-* **Process 2:** ![Sequence Diagram 2](./Solidus%20Sequence%20Diagram%20(2).png)
+* **Process 1:** ![Sequence Diagram 1](./Diagrams/Solidus-Sequence-Diagram(1).png)
+* **Process 2:** ![Sequence Diagram 2](./Diagrams/Solidus-Sequence-Diagram(2).png)
 
 ### 4. Activity Diagrams
 Detail the workflow of building inspections and data validation.
-* **Workflow A:** ![Activity Diagram 1](./Soldus%20Activity%20Diagram%20(1).png)
-* **Workflow B:** ![Activity Diagram 2](./Solidus%20Activity%20Diagram%20(2).png)
+* **Workflow A:** ![Activity Diagram 1](./Diagrams/Soldus-Activity-Diagram(1).png)
+* **Workflow B:** ![Activity Diagram 2](./Diagrams/Solidus-Activity-Diagram(2).png)
 
 ### 5. State Diagrams
-Define the various states of an inspection report during its lifecycle.
-![State Diagram](./Solidus%20State%20Diagram%20(1).png)
+These diagrams define the various states of an inspection report and the system lifecycle, ensuring all transitions are handled correctly.
+
+#### System State Lifecycle (Part 1)
+![State Diagram](./Diagrams/Solidus-State-Diagram(1).png)
+
+#### Detailed Transition Logic (Part 2)
+![State Diagram](./Diagrams/Solidus-State-Diagram(2).png)
+
